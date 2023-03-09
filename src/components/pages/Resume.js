@@ -1,5 +1,5 @@
 import React from 'react';
-const resume = "resume file";
+const resume = "../public/Resume.pdf";
 
 export default function Resume() {
   return (
