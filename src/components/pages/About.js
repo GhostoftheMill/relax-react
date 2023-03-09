@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function About() {
   return (
-    <div>
+    <div className="container text-center m-5-auto">
       <h1>Epitath</h1>
       <img src="https://avatars.githubusercontent.com/u/112919123?v=4" alt="Ghost by wooden river mill" width="400" height="400"/>
       <p>

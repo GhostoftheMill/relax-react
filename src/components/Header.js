@@ -4,9 +4,9 @@ import React from 'react';
 
 function Header() {
   return (
-    <header className="header">
-      <h1>Buy, sell, exchange comics!</h1>
-      <input type="text" placeholder="Search.."></input>
+    <header className="header container text-center m-5-auto" background-color="grey">
+      <h2>Works and deed of</h2>
+      <h1>ghostofthemill</h1>
     </header>
   );
 }
