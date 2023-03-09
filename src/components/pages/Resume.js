@@ -3,8 +3,8 @@ const resume = "resume file";
 
 export default function Resume() {
   return (
-    <div>
-        <h3>Works & Deeds of</h3>
+    <div className="container text-center m-5-auto">
+        <h3>Obituary of</h3>
         <h2>GhostoftheMill</h2>
         <button className="button">
         <a className="button" href={resume} download>Download Resume</a>
