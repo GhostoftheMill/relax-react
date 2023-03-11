@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/relax-react/static/css/main.becf35b8.css",
-    "main.js": "/relax-react/static/js/main.babd3b64.js",
-    "static/js/787.b701888c.chunk.js": "/relax-react/static/js/787.b701888c.chunk.js",
+    "main.js": "/relax-react/static/js/main.624054ae.js",
     "static/media/meals.jpg": "/relax-react/static/media/meals.1791f55c39622d0a6ed5.jpg",
     "static/media/passwordgen.jpg": "/relax-react/static/media/passwordgen.d805ad69b033cc187eda.jpg",
     "static/media/employeetracker.jpg": "/relax-react/static/media/employeetracker.76d475f4b4123fffdc68.jpg",
@@ -11,11 +10,10 @@
     "static/media/notetaker.jpg": "/relax-react/static/media/notetaker.5d0d8f059988b7ef3417.jpg",
     "index.html": "/relax-react/index.html",
     "main.becf35b8.css.map": "/relax-react/static/css/main.becf35b8.css.map",
-    "main.babd3b64.js.map": "/relax-react/static/js/main.babd3b64.js.map",
-    "787.b701888c.chunk.js.map": "/relax-react/static/js/787.b701888c.chunk.js.map"
+    "main.624054ae.js.map": "/relax-react/static/js/main.624054ae.js.map"
   },
   "entrypoints": [
     "static/css/main.becf35b8.css",
-    "static/js/main.babd3b64.js"
+    "static/js/main.624054ae.js"
   ]
 }
