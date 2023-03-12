@@ -1,7 +1,7 @@
 import React from 'react';
 import Card from 'react-bootstrap/Card';
 import './Portfolio.css';
-import logo1 from '../img/employeetracker.jpg';
+import logo1 from '../img/placeholder.jpg';
 import logo2 from '../img/meals.jpg';
 import logo3 from '../img/notetaker.jpg';
 import logo4 from '../img/passwordgen.jpg';
@@ -17,14 +17,14 @@ export default function Portfolio() {
     <div>
       <div className='outer center'>
         <div className='space'>
-        <a href="https://github.com/GhostoftheMill/watchful-eye">
+        <a href="https://github.com/codingColinMcM/Comic-Book-E-Commerce">
     {/* // Card 1 */}
     <Card style={{ width: '20rem' }}>
       <Card.Img variant="top" src={logo1} />
       <Card.Body>
-        <Card.Title>Employee Tracker</Card.Title>
+        <Card.Title>Project 3, Comic Book e-Commerce</Card.Title>
         <Card.Text>
-        A command-line application that manages an employee database.
+        Wrote a lot of the React for this project.
         </Card.Text>
       </Card.Body>
     </Card>
